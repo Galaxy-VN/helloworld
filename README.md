@@ -3,7 +3,7 @@
     <strong>A collection of hello world snippets in multiple programming languages.</strong>
 </p>
 
-## ⚡️ Contribution Guidelines
+## ⚡️ Contribution Guidelines.
 
 1. Create a pull request that adds a new Language. 
 2. Create a folder with the name of the programing language.
